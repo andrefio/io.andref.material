@@ -1,2 +1,3 @@
-# io.andref.material
-Material Design Reference Application
+# Material Design Reference Application
+
+A usable implmentation of the Material Design Guidelines.
