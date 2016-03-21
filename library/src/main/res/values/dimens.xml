@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mdra_list_item_padding_end">16dp</dimen>
+    <dimen name="mdra_list_item_padding_start">16dp</dimen>
+
+
+    <!-- Three-line list with avatar and icon -->
+
+    <dimen name="mdra_font_size">16sp</dimen>
+    <dimen name="mdra_left_avatar_padding">16dp</dimen>
+    <dimen name="mdra_right_icon_padding">16dp</dimen>
+
+    <!--Font: Roboto Regular 16sp-->
+<!---->
+           <!--Tile height: 88dp-->
+    <!--Left avatar padding: 16dp-->
+    <!--Text left padding: 72dp-->
+    <!--Padding above list: 8dp-->
+    <!--Right and left padding by the icon: 16dp-->
+</resources>
